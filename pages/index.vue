@@ -66,7 +66,7 @@ export default {
 .name {
   font-size: 100px;
   color: rgb(105, 105, 141);
-  font-family: 'Trebuchet MS';
+  font-family: 'Avenir';
 }
 
 .btn {
